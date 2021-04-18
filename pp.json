@@ -1,0 +1,792 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1766,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "irNSzQEACAAJ",
+      "etag": "TLPwZbHrVNc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/irNSzQEACAAJ",
+      "volumeInfo": {
+        "title": "Pride and Prejudice",
+        "subtitle": "The Complete Novel, with Nineteen Letters from the Characters' Correspondence, Written and Folded by Hand",
+        "authors": [
+          "Jane Austen",
+          "Barbara Heller"
+        ],
+        "publisher": "Chronicle Books",
+        "publishedDate": "2020",
+        "description": "\"Pride and Prejudice is one of the most beloved novels of all time, and nothing captures Jane Austen's vivid emotion and keen with better than her characters' correspondence. This deluxe edition pays homage to the power of these epistles, with glassine pockets placed throughout the book containing removable replicas of all 19 letters in the story, re-created with gorgeous calligraphy and painstaking attention to historical detail\"--",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1452184577"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781452184579"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=irNSzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=irNSzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=irNSzQEACAAJ&dq=pride+prejudice&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=irNSzQEACAAJ&dq=pride+prejudice&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pride_and_Prejudice.html?hl=&id=irNSzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=irNSzQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This special edition invites Jane Austen fans to step inside her world. It includes the full text of Pride and Prejudice, plus gorgeous, removable recreations of the character&#39;s correspondence."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s1gVAAAAYAAJ",
+      "etag": "ph00d19C3Tw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s1gVAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Pride and Prejudice",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publishedDate": "1918",
+        "description": "Austen’s most celebrated novel tells the story of Elizabeth Bennet, a bright, lively young woman with four sisters, and a mother determined to marry them to wealthy men. At a party near the Bennets’ home in the English countryside, Elizabeth meets the wealthy, proud Fitzwilliam Darcy. Elizabeth initially finds Darcy haughty and intolerable, but circumstances continue to unite the pair. Mr. Darcy finds himself captivated by Elizabeth’s wit and candor, while her reservations about his character slowly vanish. The story is as much a social critique as it is a love story, and the prose crackles with Austen’s wry wit.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044086796588"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 401,
+        "printType": "BOOK",
+        "categories": [
+          "Courtship"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 373,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.8.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s1gVAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s1gVAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=s1gVAAAAYAAJ&pg=PP1&dq=pride+prejudice&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=s1gVAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=s1gVAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=s1gVAAAAYAAJ&rdid=book-s1gVAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Pride_and_Prejudice.epub?id=s1gVAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Pride_and_Prejudice.pdf?id=s1gVAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3dQw5JDWdbVgk2VRHyDjVMT4oIaA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s1gVAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mr. Darcy finds himself captivated by Elizabeth’s wit and candor, while her reservations about his character slowly vanish. The story is as much a social critique as it is a love story, and the prose crackles with Austen’s wry wit."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p7uGzQEACAAJ",
+      "etag": "P7QPQA+Ty70",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p7uGzQEACAAJ",
+      "volumeInfo": {
+        "title": "Pride/prejudice",
+        "authors": [
+          "Ann Herendeen"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1151066298"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 420,
+        "printType": "BOOK",
+        "categories": [
+          "Bennet, Elizabeth (Fictitious character)"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=p7uGzQEACAAJ&dq=pride+prejudice&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=p7uGzQEACAAJ&dq=pride+prejudice&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pride_prejudice.html?hl=&id=p7uGzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p7uGzQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9LZnDwAAQBAJ",
+      "etag": "oHyLQItsM3k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9LZnDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Pride, Prejudice, and Other Flavors",
+        "subtitle": "A Novel",
+        "authors": [
+          "Sonali Dev"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2019-05-07",
+        "description": "Award-winning author Sonali Dev launches a new series about the Rajes, an immigrant Indian family descended from royalty, who have built their lives in San Francisco... It is a truth universally acknowledged that only in an overachieving Indian American family can a genius daughter be considered a black sheep. Dr. Trisha Raje is San Francisco’s most acclaimed neurosurgeon. But that’s not enough for the Rajes, her influential immigrant family who’s achieved power by making its own non-negotiable rules: · Never trust an outsider · Never do anything to jeopardize your brother’s political aspirations · And never, ever, defy your family Trisha is guilty of breaking all three rules. But now she has a chance to redeem herself. So long as she doesn’t repeat old mistakes. Up-and-coming chef DJ Caine has known people like Trisha before, people who judge him by his rough beginnings and place pedigree above character. He needs the lucrative job the Rajes offer, but he values his pride too much to indulge Trisha’s arrogance. And then he discovers that she’s the only surgeon who can save his sister’s life. As the two clash, their assumptions crumble like the spun sugar on one of DJ’s stunning desserts. But before a future can be savored there’s a past to be reckoned with... A family trying to build home in a new land. A man who has never felt at home anywhere. And a choice to be made between the two.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062839060"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0062839063"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 496,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 18,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9LZnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9LZnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9LZnDwAAQBAJ&printsec=frontcover&dq=pride+prejudice&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9LZnDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9LZnDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9LZnDwAAQBAJ&rdid=book-9LZnDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Pride_Prejudice_and_Other_Flavors-sample-epub.acsm?id=9LZnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9LZnDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Award-winning author Sonali Dev launches a new series about the Rajes, an immigrant Indian family descended from royalty, who have built their lives in San Francisco."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kQ0mAAAAMAAJ",
+      "etag": "JzGx7TBbbSo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kQ0mAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Pride and Prejudice",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "RD Bentley",
+        "publishedDate": "1853",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433074943634"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 340,
+        "printType": "BOOK",
+        "categories": [
+          "English fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 1031,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kQ0mAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kQ0mAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=kQ0mAAAAMAAJ&pg=PP1&dq=pride+prejudice&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=kQ0mAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kQ0mAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=kQ0mAAAAMAAJ&rdid=book-kQ0mAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Pride_and_Prejudice.epub?id=kQ0mAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Pride_and_Prejudice.pdf?id=kQ0mAAAAMAAJ&hl=&output=pdf&sig=ACfU3U2K18F363HZtIgKbHlVc_VkJlOV_g&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kQ0mAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x5xPaPeZzmUC",
+      "etag": "OX7AgOagqwI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x5xPaPeZzmUC",
+      "volumeInfo": {
+        "title": "Pride and Prejudice and Zombies",
+        "authors": [
+          "Jane Austen",
+          "Seth Grahame-Smith"
+        ],
+        "publisher": "Quirk Books",
+        "publishedDate": "2009-05-01",
+        "description": "The New York Times best seller is now a major motion picture starring Lily James and Sam Riley, with Matt Smith, Charles Dance, and Lena Headey. This edition features sixteen pages of color stills from the film, a reading group discussion guide, and other bonus materials. Complete with romance, heartbreak, swordfights, cannibalism, and thousands of rotting corpses, Pride and Prejudice and Zombies is an audacious retelling of English literature’s most enduring novel. This expanded edition of the beloved Jane Austen novel featuring all-new scenes of bone-crunching zombie mayhem begins when a mysterious plague falls upon the quiet English village of Meryton—and the dead are returning to life! Feisty heroine Elizabeth Bennet is determined to wipe out the zombie menace, but she’s soon distracted by the arrival of the haughty and arrogant Mr. Darcy. What ensues is a delightful comedy of manners with plenty of civilized sparring between the two young lovers—and even more violent sparring on the blood-soaked battlefield. It’s the perfect read for literature lovers, zombie fans, and anyone who loves a reanimated Austen.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1594744491"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781594744495"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1249,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.17.16.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x5xPaPeZzmUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x5xPaPeZzmUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=x5xPaPeZzmUC&printsec=frontcover&dq=pride+prejudice&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=x5xPaPeZzmUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=x5xPaPeZzmUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=x5xPaPeZzmUC&rdid=book-x5xPaPeZzmUC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Pride_and_Prejudice_and_Zombies-sample-epub.acsm?id=x5xPaPeZzmUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Pride_and_Prejudice_and_Zombies-sample-pdf.acsm?id=x5xPaPeZzmUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x5xPaPeZzmUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition features sixteen pages of color stills from the film, a reading group discussion guide, and other bonus materials."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-wbsJX9r7WAC",
+      "etag": "q/9gMtkSndo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-wbsJX9r7WAC",
+      "volumeInfo": {
+        "title": "Pride & Prejudice",
+        "authors": [
+          "Jennifer Adams"
+        ],
+        "publisher": "Gibbs Smith",
+        "publishedDate": "2011",
+        "description": "Counts from one to ten using characters, places, and events from Jane Austen's \"Pride and Prejudice.\" On board pages.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781423622024"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1423622022"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-wbsJX9r7WAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-wbsJX9r7WAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-wbsJX9r7WAC&printsec=frontcover&dq=pride+prejudice&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-wbsJX9r7WAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-wbsJX9r7WAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 8,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-wbsJX9r7WAC&rdid=book--wbsJX9r7WAC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Pride_Prejudice-sample-pdf.acsm?id=-wbsJX9r7WAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-wbsJX9r7WAC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "No part of this book may be reproduced by any means whatsoever without written permission from the publisher, except brief portions quoted for purpose of review."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "78aljwEACAAJ",
+      "etag": "00ODK552U8g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/78aljwEACAAJ",
+      "volumeInfo": {
+        "title": "Pride and Prejudice: A Coloring Classic",
+        "authors": [
+          "Chellie Carroll"
+        ],
+        "publisher": "Doubleday Books for Young Readers",
+        "publishedDate": "2016-07-05",
+        "description": "Fall in love all over again with Jane Austen's Pride and Prejudice in this wonderful coloring book featuring beautifully intricate patterns and details, classic quotations, and iconic scenes to color in. Includes a fascinating guide to the Victorian language of flowers and a gorgeous foiled cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1524701122"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781524701123"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+          "Games"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=78aljwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=78aljwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=78aljwEACAAJ&dq=pride+prejudice&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=78aljwEACAAJ&dq=pride+prejudice&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pride_and_Prejudice_A_Coloring_Classic.html?hl=&id=78aljwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=78aljwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Fall in love all over again with Jane Austen&#39;s Pride and Prejudice in this wonderful coloring book featuring beautifully intricate patterns and details, classic quotations, and iconic scenes to color in."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "l7NvDwAAQBAJ",
+      "etag": "z992s2j7deU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l7NvDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Pride and Prejudice and Zombies",
+        "subtitle": "Dawn of the Dreadfuls",
+        "authors": [
+          "Steve Hockensmith"
+        ],
+        "publisher": "Quirk Books",
+        "publishedDate": "2010",
+        "description": "In a prequel to the best-selling Pride and Prejudice and Zombies, Elizabeth Bennet evolves from a simple young teenager into a savage slayer of the undead, as she trains with nunchucks and katana swords and experiences a tragic first romance. Original. 200,000 first printing. $100,000 ad/promo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781594744549"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1594744548"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 287,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 53,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=l7NvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=l7NvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=l7NvDwAAQBAJ&printsec=frontcover&dq=pride+prejudice&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=l7NvDwAAQBAJ&dq=pride+prejudice&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pride_and_Prejudice_and_Zombies.html?hl=&id=l7NvDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l7NvDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In a prequel to the best-selling Pride and Prejudice and Zombies, Elizabeth Bennet evolves from a simple young teenager into a savage slayer of the undead, as she trains with nunchucks and katana swords and experiences a tragic first ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7hS3zQEACAAJ",
+      "etag": "fnUzWO+dODs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7hS3zQEACAAJ",
+      "volumeInfo": {
+        "title": "Pride and Prejudice",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publishedDate": "2020-01-28",
+        "description": "Pride and Prejudice is a novel of manners by Jane Austen, first published in 1813. The story follows the main character, Elizabeth Bennet, as she deals with issues of manners, upbringing, morality, education, and marriage in the society of the landed gentry of the British Regency.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798605605201"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 386,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7hS3zQEACAAJ&dq=pride+prejudice&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=7hS3zQEACAAJ&dq=pride+prejudice&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pride_and_Prejudice.html?hl=&id=7hS3zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7hS3zQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story follows the main character, Elizabeth Bennet, as she deals with issues of manners, upbringing, morality, education, and marriage in the society of the landed gentry of the British Regency."
+      }
+    }
+  ]
+}
