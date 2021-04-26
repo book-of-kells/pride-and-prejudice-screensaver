@@ -1,30 +1,19 @@
 # random screensaver quotes from Pride and Prejudice
+To create a cronjob to change the screensaver message every hour:
 
-## thought process
+```commandline
+touch /var/log/screensaver_crontab_output.log
+chmod 666 /var/log/screensaver_crontab_output.log
 
-1. figure out how to alter screensaver messages with `defaults -currentHost read com.apple.ScreenSaver.Computer-Name`
-2. google "pride and prejudice api"
-3. find https://developers.google.com/books/docs/v1/using#download-format
-4. run 
-```commandline
-curl https://www.googleapis.com/books/v1/volumes?q=pride+prejudice&download=epub > pp.json
+crontab -e
+0 * * * *  $PROJECT_DIRECTORY/pride-and-prejudice-screensaver/randomScreenSaverMessage.sh >> /var/log/screensaver_crontab_output.log >/dev/null 2>&1
 ```
-to get all of google's copies of Pride&Prejudice 
-5. find an available epub for download
-```commandline
-cat pp.json | jq -r '.items[] | .accessInfo'
-```
-6. Install and run epy-reader to convert .epub to .txt
-```commandline
-epy Pride_and_Prejudice.epub
-epy -d > pp.txt
-```
-7. write script. Test by running
+
+To start screensaver from the commandline: 
+
 ```commandline
 /System/Library/CoreServices/ScreenSaverEngine.app/Contents/MacOS/ScreenSaverEngine
 ```
-8. Add to `~/.zshrc`
-```commandline
-echo "$(pwd)/randomScreenSaverMessage.sh >> ~/.zshrc" && source ~/.zshrc
-```
-and reload terminal to test
+
+
+

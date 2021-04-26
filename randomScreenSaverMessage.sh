@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 PP_TEXT=""
-FILE="$(pwd)/pp.txt"
+FILE=$(dirname "$0")/"pp.txt"
 
 function get_PP_TEXT() {
 	# get random line number between 86 and 7700
@@ -25,6 +25,10 @@ done
 SCREENSAVER_MSG=$(echo "$PP_TEXT\n\n— Pride and Prejudice, line $LINE_NO" | sed 's/"/\\"/g')
 SCREENSAVER_MSG='"'$SCREENSAVER_MSG'"'
 
+# log output
+echo
+echo $SCREENSAVER_MSG
+echo
 
 defaults -currentHost write com.apple.ScreenSaver.Computer-Name MESSAGE $SCREENSAVER_MSG
 killall cfprefsd
