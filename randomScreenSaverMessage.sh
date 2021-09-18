@@ -16,7 +16,7 @@ function get_PP_TEXT() {
 while [ "$PP_TEXT"="" ]
 do
 	get_PP_TEXT
-	if [[ "$PP_TEXT" != "" ]]; then  # todo: if [[ $PP_TEXT==\CHAPTER* ]]
+	if [[ "$PP_TEXT" == CHAPTER* || "$PP_TEXT" != "" ]]; then
 	    break
 	fi
 done
