@@ -1,5 +1,8 @@
 # random screensaver quotes
 
+## todo
+file `/Users/c.kelly.iverson/Library/Preferences/ByHost/com.apple.ScreenSaver.Computer-Name.${USER_UUID}.plist` doesn't exist before creating it
+
 ## To create a cronjob to change the screensaver message every hour:
 **Note**: Don't put the script in `Desktop`, `Documents`, or `Downloads`.
 
